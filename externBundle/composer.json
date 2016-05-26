@@ -1,5 +1,5 @@
 {
-  "name": "RE/extern-bundle",
+  "name": "RE",
   "licence": "MIT",
   "require": {
     "php": ">=5.3.0",
