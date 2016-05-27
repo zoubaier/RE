@@ -1,6 +1,7 @@
 {
   "name": "re/extern-bundle",
   "licence": "MIT",
+  "version":"1.1",
   "require": {
     "php": ">=5.3.0",
     "symfony/framework-bundle": ">=2.1",
